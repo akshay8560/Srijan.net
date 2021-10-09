@@ -9,7 +9,7 @@ class StartActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_start)
         var textview=findViewById(R.id.textview)as TextView
-        
+
     }
 
 }
